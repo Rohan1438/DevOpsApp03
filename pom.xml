@@ -4,7 +4,7 @@
   <groupId>rohan.Dev</groupId>
   <artifactId>01-Maven-web-app</artifactId>
   <packaging>war</packaging>
-  <version>1</version>
+  <version>1.0-RELEASE</version>
   <name>01-Maven-web-app Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
